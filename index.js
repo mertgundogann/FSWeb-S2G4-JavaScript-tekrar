@@ -109,7 +109,7 @@ let ucetambolunenler,
 
 // 3c çözümü:
 
-/* kodlar buraya */
+"test"
 
 // 3d çözümü
 
