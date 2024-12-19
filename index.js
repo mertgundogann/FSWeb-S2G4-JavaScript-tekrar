@@ -122,7 +122,7 @@ let s
 
 // 3f çözümü
 
-/* kodlar buraya */
+test
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
 
