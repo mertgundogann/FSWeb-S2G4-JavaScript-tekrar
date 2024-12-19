@@ -109,11 +109,11 @@ test
 
 // 3c çözümü:
 
-"test"
+test
 
 // 3d çözümü
 
-/* kodlar buraya */
+test
 
 // 3e çözümü
 
