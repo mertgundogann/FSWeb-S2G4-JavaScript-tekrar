@@ -52,6 +52,8 @@ function KareninAlani(kenaruzunlugu) {
 //console.log("Emre de çalışıyor");
 function CemberinCevresi(r) {
   return 2 * pi * r;
+
+  sss
 }
 
 /* (Oto test yok) Yukarıdaki CemberinCevresi fonksiyonunu yarıçap = 5 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
