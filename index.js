@@ -117,7 +117,8 @@ test
 
 // 3e çözümü
 
-/* kodlar buraya */
+//yorum satırı
+let s 
 
 // 3f çözümü
 
