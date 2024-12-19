@@ -101,11 +101,11 @@ let ucetambolunenler,
 
 // 3a çözümü
 
-/* kodlar buraya */
+test
 
 // 3b çözümü:
 
-/* kodlar buraya */
+test
 
 // 3c çözümü:
 
